@@ -93,7 +93,7 @@
   {
    "id": "cacitizen",
    "name": "Citizenship",
-   "title": "Canadian Citizenship Test",
+   "title": "Canadian Citizenship",
    "subtitle": "Based on Discover Canada",
    "symbol": "leaf.fill",
    "tint": "red",
@@ -102,5 +102,5 @@
   }
  ],
  "uniqueQuestions": 1098,
- "contentVersion": 5
+ "contentVersion": 6
 }
