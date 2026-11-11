@@ -1,0 +1,70 @@
+{
+ "countries": [
+  {
+   "code": "TR",
+   "name": "Türkiye",
+   "flag": "🇹🇷",
+   "exams": [
+    "kpss",
+    "ehliyet",
+    "yds",
+    "ales",
+    "dgs"
+   ]
+  }
+ ],
+ "exams": [
+  {
+   "id": "kpss",
+   "name": "KPSS",
+   "title": "KPSS GY-GK",
+   "subtitle": "Genel Yetenek · Genel Kültür",
+   "symbol": "building.columns.fill",
+   "tint": "indigo",
+   "country": "TR",
+   "questionCount": 600
+  },
+  {
+   "id": "ehliyet",
+   "name": "Ehliyet",
+   "title": "Ehliyet Sınavı",
+   "subtitle": "Trafik · İlk yardım · Motor",
+   "symbol": "car.fill",
+   "tint": "orange",
+   "country": "TR",
+   "questionCount": 171
+  },
+  {
+   "id": "yds",
+   "name": "YDS",
+   "title": "YDS İngilizce",
+   "subtitle": "Kelime · Gramer · Çeviri · Okuma",
+   "symbol": "character.book.closed.fill",
+   "tint": "teal",
+   "country": "TR",
+   "questionCount": 116
+  },
+  {
+   "id": "ales",
+   "name": "ALES",
+   "title": "ALES",
+   "subtitle": "Sayısal · Sözel",
+   "symbol": "function",
+   "tint": "purple",
+   "country": "TR",
+   "questionCount": 430
+  },
+  {
+   "id": "dgs",
+   "name": "DGS",
+   "title": "DGS",
+   "subtitle": "Sayısal · Sözel",
+   "symbol": "arrow.up.right.circle.fill",
+   "tint": "green",
+   "country": "TR",
+   "questionCount": 430
+  }
+ ],
+ "uniqueQuestions": 887,
+ "contentVersion": 3
+}
