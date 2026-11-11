@@ -19,6 +19,14 @@
    "exams": [
     "uscitizen"
    ]
+  },
+  {
+   "code": "CA",
+   "name": "Canada",
+   "flag": "🇨🇦",
+   "exams": [
+    "cacitizen"
+   ]
   }
  ],
  "exams": [
@@ -81,8 +89,18 @@
    "tint": "blue",
    "country": "US",
    "questionCount": 120
+  },
+  {
+   "id": "cacitizen",
+   "name": "Citizenship",
+   "title": "Canadian Citizenship Test",
+   "subtitle": "Based on Discover Canada",
+   "symbol": "leaf.fill",
+   "tint": "red",
+   "country": "CA",
+   "questionCount": 91
   }
  ],
- "uniqueQuestions": 1007,
- "contentVersion": 4
+ "uniqueQuestions": 1098,
+ "contentVersion": 5
 }

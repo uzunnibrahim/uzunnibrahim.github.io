@@ -1,9 +1,10 @@
 {
  "schema": 1,
- "contentVersion": 4,
+ "contentVersion": 5,
  "files": {
-  "catalog.json": "9241dd9497238474f9073330f861d3c87712c3a8696e4d0d06ff7b6d0da06bcb",
+  "catalog.json": "a55ca57cd91ec893545e4bc02b310e27cd45ee60eaa66acb60519ae1f31a436e",
   "exam-ales.json": "b32a17e7df263f16c2972a3a8f71b7bfdadf3e1e1ddeae61e817eb0fd84982cf",
+  "exam-cacitizen.json": "8bb8162115604fc3491009c78a7a908f6e708e7423e95541588f7532ce0cc33f",
   "exam-dgs.json": "97680460879653531323927c83755ab29cf73dfdabac71d26d9807fe2c5b46c2",
   "exam-ehliyet.json": "30e6026fd1b7edc0952e1651fc2bd0e08161c9234aed87d8c25d2ed8fdce1232",
   "exam-kpss.json": "1d30153b06a0332691255fe07709457f2846ea907196a0b5a698a4b753a9728b",
