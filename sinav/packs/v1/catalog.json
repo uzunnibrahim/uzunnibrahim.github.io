@@ -11,6 +11,14 @@
     "ales",
     "dgs"
    ]
+  },
+  {
+   "code": "US",
+   "name": "United States",
+   "flag": "🇺🇸",
+   "exams": [
+    "uscitizen"
+   ]
   }
  ],
  "exams": [
@@ -63,8 +71,18 @@
    "tint": "green",
    "country": "TR",
    "questionCount": 430
+  },
+  {
+   "id": "uscitizen",
+   "name": "Citizenship",
+   "title": "U.S. Citizenship Test",
+   "subtitle": "Official 2025 civics questions",
+   "symbol": "flag.fill",
+   "tint": "blue",
+   "country": "US",
+   "questionCount": 120
   }
  ],
- "uniqueQuestions": 887,
- "contentVersion": 3
+ "uniqueQuestions": 1007,
+ "contentVersion": 4
 }
