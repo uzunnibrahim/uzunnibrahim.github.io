@@ -1,11 +1,12 @@
 {
  "schema": 1,
- "contentVersion": 9,
+ "contentVersion": 10,
  "files": {
-  "catalog.json": "7fcff5513872d589d2fc352dbfc1b768b8e90d71fdbbb93137e210f3b2029ea1",
+  "catalog.json": "5609efd7b732cf54d57cc9ec420622d81181417f6665e10cc1ef8888963a8965",
   "exam-ales.json": "7b3d8dc2f68e7c5b9328231fe7505fc4e6d817fb23c6b0d2bc7dd26578968d13",
   "exam-aucitizen.json": "52c40e302a63fdabe9cb449bc0afa02ddbf3d166e66a8fcfcbcb086630ff46cf",
   "exam-cacitizen.json": "d0ff7e34e96b7ead7845221d670abbe2dc9eb1af9ebc07713f99f388f86025d7",
+  "exam-deleben.json": "15d2582dc77ffe7398c4ee8084273663d9a38f279e584f43cc536816bd5a1552",
   "exam-dgs.json": "9ef50d9c7403bb6ab51cac14f452723105b6c0a66d0cbc870e9b6ecd55c8eb1e",
   "exam-ehliyet.json": "30e6026fd1b7edc0952e1651fc2bd0e08161c9234aed87d8c25d2ed8fdce1232",
   "exam-kpss.json": "b710023a3fcf97e4bee41c3dccdb126f7f0e511b7c019f25628cd262a6861737",

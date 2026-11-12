@@ -43,6 +43,14 @@
    "exams": [
     "aucitizen"
    ]
+  },
+  {
+   "code": "DE",
+   "name": "Deutschland",
+   "flag": "🇩🇪",
+   "exams": [
+    "deleben"
+   ]
   }
  ],
  "exams": [
@@ -135,8 +143,18 @@
    "tint": "indigo",
    "country": "GB",
    "questionCount": 79
+  },
+  {
+   "id": "deleben",
+   "name": "Einbürgerungstest",
+   "title": "Leben in Deutschland",
+   "subtitle": "Amtlicher Fragenkatalog",
+   "symbol": "building.columns",
+   "tint": "orange",
+   "country": "DE",
+   "questionCount": 291
   }
  ],
- "uniqueQuestions": 1272,
- "contentVersion": 9
+ "uniqueQuestions": 1563,
+ "contentVersion": 10
 }
