@@ -152,9 +152,9 @@
    "symbol": "building.columns",
    "tint": "orange",
    "country": "DE",
-   "questionCount": 291
+   "questionCount": 417
   }
  ],
- "uniqueQuestions": 1563,
- "contentVersion": 10
+ "uniqueQuestions": 1689,
+ "contentVersion": 11
 }
