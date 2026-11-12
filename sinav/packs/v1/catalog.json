@@ -27,6 +27,22 @@
    "exams": [
     "cacitizen"
    ]
+  },
+  {
+   "code": "GB",
+   "name": "United Kingdom",
+   "flag": "🇬🇧",
+   "exams": [
+    "lifeinuk"
+   ]
+  },
+  {
+   "code": "AU",
+   "name": "Australia",
+   "flag": "🇦🇺",
+   "exams": [
+    "aucitizen"
+   ]
   }
  ],
  "exams": [
@@ -99,8 +115,28 @@
    "tint": "red",
    "country": "CA",
    "questionCount": 91
+  },
+  {
+   "id": "aucitizen",
+   "name": "Citizenship",
+   "title": "Australian Citizenship",
+   "subtitle": "Based on Our Common Bond",
+   "symbol": "sun.max.fill",
+   "tint": "green",
+   "country": "AU",
+   "questionCount": 66
+  },
+  {
+   "id": "lifeinuk",
+   "name": "Life in the UK",
+   "title": "Life in the UK Test",
+   "subtitle": "Based on the official handbook",
+   "symbol": "crown.fill",
+   "tint": "indigo",
+   "country": "GB",
+   "questionCount": 79
   }
  ],
- "uniqueQuestions": 1098,
- "contentVersion": 6
+ "uniqueQuestions": 1243,
+ "contentVersion": 7
 }
