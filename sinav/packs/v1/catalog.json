@@ -54,7 +54,7 @@
    "symbol": "building.columns.fill",
    "tint": "indigo",
    "country": "TR",
-   "questionCount": 600
+   "questionCount": 629
   },
   {
    "id": "ehliyet",
@@ -84,7 +84,7 @@
    "symbol": "function",
    "tint": "purple",
    "country": "TR",
-   "questionCount": 430
+   "questionCount": 459
   },
   {
    "id": "dgs",
@@ -94,7 +94,7 @@
    "symbol": "arrow.up.right.circle.fill",
    "tint": "green",
    "country": "TR",
-   "questionCount": 430
+   "questionCount": 459
   },
   {
    "id": "uscitizen",
@@ -137,6 +137,6 @@
    "questionCount": 79
   }
  ],
- "uniqueQuestions": 1243,
- "contentVersion": 7
+ "uniqueQuestions": 1272,
+ "contentVersion": 8
 }

@@ -1,14 +1,14 @@
 {
  "schema": 1,
- "contentVersion": 7,
+ "contentVersion": 8,
  "files": {
-  "catalog.json": "1f47484939e705df1779c0b405abd6eb43673f898b020c31a13cc141d8bf62ff",
-  "exam-ales.json": "b32a17e7df263f16c2972a3a8f71b7bfdadf3e1e1ddeae61e817eb0fd84982cf",
+  "catalog.json": "5ebd298199bf04527674e5ee8169c96dc3c45af4ebd7321d2fe9ec3138851870",
+  "exam-ales.json": "0e60441eb57aca7f907c18559db6dd63e5d32b9a10aa0671b2a016c6ef7121b1",
   "exam-aucitizen.json": "52c40e302a63fdabe9cb449bc0afa02ddbf3d166e66a8fcfcbcb086630ff46cf",
   "exam-cacitizen.json": "d0ff7e34e96b7ead7845221d670abbe2dc9eb1af9ebc07713f99f388f86025d7",
-  "exam-dgs.json": "97680460879653531323927c83755ab29cf73dfdabac71d26d9807fe2c5b46c2",
+  "exam-dgs.json": "2f024bda020842644d6f9120752d4d74035dd2f880796eb55edb766a84821f27",
   "exam-ehliyet.json": "30e6026fd1b7edc0952e1651fc2bd0e08161c9234aed87d8c25d2ed8fdce1232",
-  "exam-kpss.json": "1d30153b06a0332691255fe07709457f2846ea907196a0b5a698a4b753a9728b",
+  "exam-kpss.json": "719828b12d144f0df8bf66e26d62bf89aa593e14af5033d563933ec05e252310",
   "exam-lifeinuk.json": "4e3cd6acb7edfba8e4605b5c22a12286d87ad7de2db7f1c6f79ec9f632957402",
   "exam-uscitizen.json": "bebaa2d69570c84e29bbcd0a37a7186f233d33d8f8dc2d2cc9badb33a8a53547",
   "exam-yds.json": "2e384394594e5266dfd12b218a7f36f78cd1296c55228575b1469ad8212112a8"
